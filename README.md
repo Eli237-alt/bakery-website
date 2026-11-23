@@ -38,4 +38,4 @@ simple user experience around a real-world business.
 
 ## Author
 
-[Your Name]
+Tcheuffa Franck
